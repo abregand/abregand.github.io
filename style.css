@@ -5,4 +5,13 @@ body {
 
 div {
     background-color: #37BC9B;
+    border: #4ae9c1 3px dashed;
+}
+
+.btn {
+    background-color: #4ae9c1;
+}
+
+.btn:hover {
+    background-color: #48CFAD;
 }
